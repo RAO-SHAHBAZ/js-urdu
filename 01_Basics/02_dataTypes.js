@@ -1,4 +1,4 @@
-"use strict" // trear all Js Code as newr version
+"use strict" // treat all Js Code as newr version
 
 //   alert(3+3) we cannot use this in node js , can use in browser
 
